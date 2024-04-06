@@ -1,0 +1,47 @@
+= Kevin RS
+
+== 🤖 Welcome to Kevin RS
+
+Kevin RS specializes in providing open-source frameworks and tools for building highly specialized autonomous AI agents. Our current best framework, link:https://github.com/kevin-rs/autogpt[AutoGPT], stands out as the world's first Gemini-specific, zero-shot, most general, most capable, blazingly fast, and extremely flexible pure Rust AI agentic framework.
+
+== 💡 Why Kevin RS?
+
+At Kevin RS, we are committed to pushing the boundaries of AI development. Here's why you should choose Kevin RS tools for your next project:
+
+- 🦀 **Built in Pure Rust**: Our tools are built entirely in Rust, leveraging its performance, reliability, and safety.
+- 🚀 **AutoGPT Framework**: Experience the power of AutoGPT, a groundbreaking framework tailored for building AI agents.
+- 💻 **Kevin AGI**: Interact with Kevin, our highly capable AGI web app that can automate anything (TODO).
+
+== 🦀 Why Rust?
+
+Rust has emerged as a leading language for link:https://www.amazon.com/Ultimate-Rust-Systems-Programming-Architecting-ebook/dp/B0CYLWK6WR[systems programming], and for good reason. Here's why Rust is the perfect choice for building AGI, especially with Kevin RS tools:
+
+- 🛠️ **Tooling like Cargo**: Rust's ecosystem boasts powerful tooling like Cargo, making development smooth and efficient.
+- 📦 **Cargo Features**: With Cargo features, we can enable and disable agents at compile time, offering exceptional flexibility in AGI development.
+- 🧰 **Memory Safety**: Rust helps us avoid bugs in our programs, making them more reliable.
+- 🚀 **Performance**: Rust programs are blazingly fast, allowing our tools to run smoothly and efficiently.
+
+== 🌐 Community & Contribution
+
+Kevin RS is not just a framework provider; it's a vibrant community of AI enthusiasts and developers. Join us to contribute and shape the future of AI development:
+
+- 🌟 **Contribute to Kevin RS**: Get involved in our GitHub community at link:https://github.com/kevin-rs/autogpt[GitHub].
+- 📧 **Questions or Suggestions?**: Reach out to us at ayo@kevin-rs.dev.
+- 🌐 **Spread the AI Revolution**: Share Kevin RS with others and join us in advancing AI technology.
+
+== 🚀 What's Next for Kevin RS?
+
+Our roadmap for future innovations in AI is as exciting as it gets:
+
+- 🚀 **AGI Development**: Pursue advancements towards achieving Artificial General Intelligence by this summer.
+- 🛠️ **Enhancements to AutoGPT**: Continuously improve and expand AutoGPT's capabilities.
+- 🤖 **New AI Tools**: Develop additional tools and frameworks to empower AI developers.
+- 🌐 **Community Projects**: Foster collaborative projects within the Kevin RS community.
+
+We are planning to achieve AGI this summer.
+
+== 📄 License
+
+Kevin RS is proudly open-source and released under the MIT License.
+
+Let's shape the future of AI together with Kevin RS! 🤖
