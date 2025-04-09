@@ -2,7 +2,7 @@
 
 == 🤖 Welcome to Kevin RS
 
-Kevin RS specializes in providing open-source frameworks and tools for building highly specialized autonomous AI agents. Our current best framework, link:https://github.com/kevin-rs/autogpt[AutoGPT], stands out as the world's first Gemini-specific, zero-shot, most general, most capable, blazingly fast, and extremely flexible pure Rust AI agentic framework.
+Kevin RS specializes in providing open-source frameworks and tools for building highly specialized autonomous AI agents. Our current best framework, link:https://github.com/kevin-rs/autogpt[AutoGPT], stands out as the world's first LLM-Providers agnostic, fault-tolerant, multi-tenant, zero-shot, most general, most capable, blazingly fast, and extremely flexible pure Rust AI agentic framework.
 
 == 💡 Why Kevin RS?
 
